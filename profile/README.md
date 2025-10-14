@@ -16,6 +16,9 @@ DSPy Spotlighting is a production-ready defense against indirect prompt injectio
 
 ## Projects
 
+### [agent-learning-ee](https://github.com/jmanhype/AgentLearningEE)
+Agent Learning via Early Experience - 4-stage pipeline for training agents without reward signals using DSPy optimization.
+
 ### [cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy)
 Cognitive Dissonance DSPy is a multi-agent LLM system for detecting and resolving belief conflicts. It translates formalizable claims to Coq and attempts machine-checked proofs, combining DSPy-based cognitive dissonance detection, NL-to-Coq translation, and online proving in one loop.
 

@@ -16,6 +16,9 @@ DSPy Spotlighting is a production-ready defense against indirect prompt injectio
 
 ## Projects
 
+### [ace-playbook](https://github.com/jmanhype/ace-playbook)
+ACE Playbook is a self-improving LLM system using the Generator-Reflector-Curator pattern for online learning from execution feedback. It features DSPy-based task execution (CoT/ReAct), semantic deduplication with FAISS, multi-tenant domain isolation, and staged rollout (shadow/staging/prod) with automated promotion gates for safe production deployment.
+
 ### [cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy)
 Cognitive Dissonance DSPy is a multi-agent LLM system for detecting and resolving belief conflicts. It translates formalizable claims to Coq and attempts machine-checked proofs, combining DSPy-based cognitive dissonance detection, NL-to-Coq translation, and online proving in one loop.
 

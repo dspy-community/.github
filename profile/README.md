@@ -16,6 +16,9 @@ DSPy Spotlighting is a production-ready defense against indirect prompt injectio
 
 ## Projects
 
+### [ace-playbook](https://github.com/jmanhype/ace-playbook)
+ACE Playbook is a self-improving LLM system using the Generator-Reflector-Curator pattern for online learning from execution feedback. It features DSPy-based task execution (CoT/ReAct), semantic deduplication with FAISS, multi-tenant domain isolation, and staged rollout (shadow/staging/prod) with automated promotion gates for safe production deployment.
+
 ### [agent-learning-ee](https://github.com/jmanhype/AgentLearningEE)
 Agent Learning via Early Experience - 4-stage pipeline for training agents without reward signals using DSPy optimization.
 

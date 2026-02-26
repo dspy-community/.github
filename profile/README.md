@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dspy-community/dspy-community/main/logo-dspy-community.svg" alt="DSPy Community" width="200"/>
+</p>
+
 # DSPy Community
 
 

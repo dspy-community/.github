@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dspy-community/dspy-community/main/logo-dspy-community.svg" alt="DSPy Community" width="200"/>
+  <img src="https://raw.githubusercontent.com/dspy-community/dspy-community/logo-dspy-community.png" alt="DSPy Community" width="200"/>
 </p>
+
+<h1 align="center">dspy-community</h1>
 
 # DSPy Community
 

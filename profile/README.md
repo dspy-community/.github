@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dspy-community/dspy-community/logo-dspy-community.png" alt="DSPy Community" width="200"/>
+  <img src="https://github.com/dspy-community/dspy-community/blob/d1296b9d9eda59b99a9df3aa45c8b20238415b17/logo-dspy-community.png?raw=true" alt="DSPy Community" width="200"/>
 </p>
 
 <h1 align="center">dspy-community</h1>
